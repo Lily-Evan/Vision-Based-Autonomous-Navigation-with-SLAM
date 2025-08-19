@@ -1,4 +1,4 @@
-# Vision-Based-Autonomous-Navigation-with-SLAM
+
 # Vision-Based Autonomous Navigation with SLAM
 
 ## Overview
